@@ -1,3 +1,4 @@
 <resources>
     <string name="app_name">Lion Map</string>
+    <string name="title_activity_maps">Map</string>
 </resources>
